@@ -1,0 +1,58 @@
+v
+d
+n
+n
+p
+p
+m
+v
+m
+n
+n
+p
+p
+m
+c
+Go to class
+10/10/2016
+10:30
+11:45
+c
+Go to CS146
+10/11/2016
+12:00
+1:15
+e
+g
+10/11/2016
+d
+s
+10/11/2016
+d
+a
+c
+Go to CS151
+10/09/2016
+12:00
+1:15
+c
+Go to School
+10/21/2016
+12:00
+1:20
+c
+My birthday
+10/27/2016
+00:01
+11:59
+c
+One and half year Anniversary
+11/01/2016
+00:01
+11:59
+c
+Go to career fair
+11/05/2016
+4:00
+
+q
